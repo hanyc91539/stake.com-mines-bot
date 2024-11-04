@@ -1,0 +1,14 @@
+{
+    "Total Mines": 6, 
+    "Selected Mines": 5, 
+    "Win" : {
+        "Multiplier" : 1,
+        "Count" : 1,
+        "Rearrange" : true
+    },
+    "Loss" : {
+        "Multiplier" : 2,
+        "Count" : 2,
+        "Rearrange" : true
+    }
+}
