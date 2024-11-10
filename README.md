@@ -61,4 +61,4 @@
  Ensure you have enough funds to support multiple rounds of doubling bets.
 
 ## License
- Licesed under the [MIT License](https://github.com/nextui-org/next-app-template/blob/main/LICENSE)
+ Licesed under the MIT License
