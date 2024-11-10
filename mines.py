@@ -18,6 +18,8 @@ import json
 RESULT_WINN = "Win"
 RESULT_LOSS = "Loss"
 
+RESULT_WinLoss = "Loss" # This is not used.
+
 initChipValue = 0.0001
 
 betOption = {}
