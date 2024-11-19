@@ -52,7 +52,6 @@
 ### Risks
  -Rapid bankroll depletion, especially with consecutive losses.
  -Psychological stress from continuous losses.
- -Betting limits on platforms can prevent continued doubling of bets.
 
  Example of Risk Losing nine bets in a row is a real possibility, which could lead to losing your entire bankroll if you don’t have sufficient funds.
 
